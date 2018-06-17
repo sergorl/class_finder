@@ -1,2 +1,2 @@
-# class_finder
-Java application
+## Functionality
+ClassFinder is dedicated to search necessary class with pattern string
